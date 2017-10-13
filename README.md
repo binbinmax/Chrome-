@@ -41,7 +41,7 @@ Chrome应用商店地址： https://chrome.google.com/websto ... lehggglehfdlnoe
 
 链接: https://pan.baidu.com/s/1hsna6lY 密码: nxds
 
-
+或者直接克隆下载
 ```
 
 ## 下载之后找到Chrome浏览器的-----扩展程序
