@@ -39,7 +39,7 @@ Chrome应用商店地址： https://chrome.google.com/websto ... lehggglehfdlnoe
 
 （如果点不开链接的就直接使用下面百度云盘分享的连接，我已经下载好了）
 
-链接: https://pan.baidu.com/s/1hsna6lY 密码: nxds
+链接: https://pan.baidu.com/s/1kVoWTzp 密码: j54f
 
 或者直接克隆下载
 ```
