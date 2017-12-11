@@ -56,9 +56,12 @@ Chrome应用商店地址： https://chrome.google.com/websto ... lehggglehfdlnoe
 ## 安装之后选择节点，登录注册直接使用！插件限制每天200m可选择升级
  ![这里写图片描述](http://img.blog.csdn.net/20171012172906651?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ4MjcwNDg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast) 
  
+```
 
     200M查阅资料还行，别看视频了！
     
     如果想直接免流！
     
     请直接下载爱国.exe 打开直接使用！
+    
+```
