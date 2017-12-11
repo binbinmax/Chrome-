@@ -62,7 +62,7 @@ Chrome应用商店地址： https://chrome.google.com/websto ... lehggglehfdlnoe
     
     如果想直接免流！
     
-    请直接下载   ,  打开直接使用！
+    请直接下载 ，爱国.exe,打开直接使用！
  
     
 ```
